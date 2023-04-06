@@ -1,4 +1,4 @@
 # small-vi
 backup and version control
 
-All rights reserved.small@ucsd
+All rights reserved. small@ucsd
